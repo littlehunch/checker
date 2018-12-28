@@ -1,8 +1,5 @@
 #!/bin/bash
 
-data_dir='data'
-data_file='data.json'
-next_file='date.json'
 doc_req='required_docs.txt'
 
 ##################
