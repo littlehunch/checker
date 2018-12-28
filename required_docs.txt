@@ -1,5 +1,2 @@
 data/data.json
-data/date.json
-data/days.json
-templates/track.json
-.env
+data/day.json

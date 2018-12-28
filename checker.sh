@@ -2,9 +2,9 @@
 
 doc_req='required_docs.txt'
 
-##################
-##  Color Palet ##
-##################
+####################
+##  color palette ##
+####################
 
 COLOR_RESET="\e[00m"
 COLOR_GREEN="\e[1;32m"
